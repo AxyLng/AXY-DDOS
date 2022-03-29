@@ -13,6 +13,6 @@ pip3 install Mechanize
 
 pip3 install requests
 
-git clone https://github.com/AxyLng/AXY-DDOSER.git
+git clone https://github.com/AxyLng/AXY-DDOS.git
 
-cd Axy-DDoser.py
+cd Axy-DDos.py
